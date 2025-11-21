@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "240601230614",
+    "project_id": "fokus1-f8c55",
+    "storage_bucket": "fokus1-f8c55.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240601230614:android:f5f3a1fcdaa319fae13437",
+        "android_client_info": {
+          "package_name": "com.thales.fokus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDFZdFibc3llzysisj0LyfbaH1KemKycY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
