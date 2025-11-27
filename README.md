@@ -48,6 +48,5 @@ A organização de pacotes favorece a separação de responsabilidades:
 
 > **Nota:** O arquivo `google-services.json` está incluído para fins de avaliação acadêmica, permitindo a conexão com o projeto Firebase de teste.
 
----
-**Desenvolvido por:** Thales Kuroishi
+
 **Disciplina:** Programação para Dispositivos Móveis - Univali
